@@ -1,5 +1,11 @@
 Getting and Cleaning Data - course project.
 
+AvgResults.txt - output of the script
+
+CodeBook.md - describes dataset, its transformation and variables
+
+run_analysis.R - main script for the analysis
+
 The script run_analysis.R operates on UCI Human Activity Recognition dataset. 
 It could be downloaded from the following location
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
